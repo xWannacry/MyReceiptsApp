@@ -95,7 +95,6 @@ class ReciptsItems extends StatelessWidget {
                       style: const TextStyle(
                           color: Colors.white,
                           fontFamily: 'Raleway',
-                          fontWeight: FontWeight.bold,
                           fontSize: 25),
                       softWrap: true,
                       overflow: TextOverflow.fade,
