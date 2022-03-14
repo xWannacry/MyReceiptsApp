@@ -1,4 +1,4 @@
-# midterm
+# MyReceiptsApp
 
 A new Flutter project.
 
